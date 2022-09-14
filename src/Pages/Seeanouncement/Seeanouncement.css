@@ -1,0 +1,32 @@
+.frame2{
+margin-bottom: 500px;
+}
+.anounce3{
+    margin-top: 50px;
+}
+.input2{
+    margin-left: 675px;
+    text-align: center;
+    width:550px;
+}
+.heading{
+    margin-top:30px;
+    margin-left: 650px;
+}
+
+h4{
+    font-size: calc(2rem + 2vw);
+    color:#552d93;
+}
+h3{
+    font-size: calc(0.5rem + 0.7vw);
+    color:#552d93;
+}
+.show{
+margin-left: 200px;
+margin-top: 120px;
+
+}
+.msg{
+    width: 1500px;
+}

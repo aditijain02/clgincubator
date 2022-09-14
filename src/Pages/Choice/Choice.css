@@ -1,0 +1,50 @@
+.icon{
+    display:flex;
+    margin-top: 40px;
+}
+.log{
+   font-size: 9px;
+   margin-left: 110%;
+   margin-bottom: 15%;
+}
+
+.b{
+   display: grid;
+    margin-left: 300px;
+}
+.a{
+    display:grid;
+}
+
+
+.NA:hover{
+    opacity: 0.2;
+    transition: 0.3s;
+    transition: 170ms ease-in-out;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+  }
+ 
+button{
+    border: none;
+   
+    background-color: #d3e0fb;
+    cursor: pointer;
+}
+
+.notes{
+    
+    margin-left: 50px;
+}
+.imga{
+    height: 350px;
+    width: 350px;
+    margin-bottom: 90px;
+}
+
+.imgb{
+    margin-bottom: 90px;
+    margin-left: 75px;
+    height: 350px;
+    width: 350px;
+}
